@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+langchain
+langchain-groq
+langchain-community
+python-dotenv
+websockets
+openai
+pydub
+numpy
+soundfile
+faiss-cpu
+sentence-transformers
+torch
+python-multipart
