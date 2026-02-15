@@ -1,6 +1,10 @@
 # Real-Time Conversational Voice Agent
 
 This project is a real-time AI voice agent for customer support.
+<img width="1187" height="710" alt="image" src="https://github.com/user-attachments/assets/bbc045ff-e855-4c66-9171-bf3d2e253033" />
+
+
+<img width="1090" height="715" alt="image" src="https://github.com/user-attachments/assets/b9dbd200-a16f-4efe-a868-ac36fc945e11" />
 
 ## Project Structure
 - `backend/`: FastAPI server handling STT, RAG, and TTS.
